@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto|Open+Sans|Montserrat');
+#body
+{
+    background-color: #f8f8f8;
+    font-family: 'Roboto','Montserrat','Open Sans', sans-serif;
+}
+
+.navbar-nav
+{
+    font-family: "Arial";
+    font-weight: 600;
+    margin-bottom: 50px;
+}
+
+#products
+{
+    margin-top: 50px;
+    font-family: "Helvetica"
+}
+
+#about
+{
+    margin-top: 100px;
+}
+
+#goods
+{
+    margin-top: 50px;
+}
+
+.single-goods
+{
+    width="200px";
+    height="300px";
+    border: 1px solid black;
+    margin: 10px;
+    float: left;
+    text-align: center;
+}
+
+.single-goods button{
+    display: block;
+    margin : 20px auto;
+    
+}
+
+.single-goods #btnGoods{
+    display: inline;
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#my-cart
+{
+    margin-top: 50px;
+}
+#cart-btn
+{
+    width: 100%;
+    font-size: 16px;
+    margin-top: 20px;
+}

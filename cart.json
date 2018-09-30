@@ -1,0 +1,30 @@
+{
+"228" : {
+    "name" : "Pizza",
+    "cost" : 100,
+    "Description" : "Пицца",
+    "image" : "img/pizza.png"
+},
+    
+"1337" : {
+    "name" : "Sprite",
+    "cost" : 50,
+    "Description" : "Sprite",
+    "image" : "img/Sprite.png"
+}    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+}
